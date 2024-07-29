@@ -10,7 +10,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 
-st.image(r"C:\Users\Y SAI KUMAR\Music\innomatics-footer-logo.webp")
+st.image(r"innomatics-footer-logo.webp")
 # Set the title of the app
 st.title("Decision Surface Visualization")
 
